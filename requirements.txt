@@ -10,7 +10,7 @@ appdirs==1.4.4
 argon2-cffi==23.1.0
 array_record==0.4.0
 arviz==0.15.1
-astropy==5.3.4
+astropy==5.2.2
 astunparse==1.6.3
 async-timeout==4.0.3
 atpublic==4.1.0
