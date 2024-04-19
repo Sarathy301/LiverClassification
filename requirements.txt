@@ -102,10 +102,10 @@ folium==0.14.0
 fonttools==4.51.0
 frozendict==2.4.1
 frozenlist==1.4.1
-fsspec==2023.6.0
+fsspec==2023.5.0
 future==0.18.3
 gast==0.5.4
-gcsfs==2023.6.0
+gcsfs==2023.5.0
 GDAL==3.6.4
 gdown==4.7.3
 geemap==0.32.0
